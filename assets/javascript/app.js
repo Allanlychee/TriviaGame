@@ -127,6 +127,6 @@ function resetGame() {
     noResponse = 0
     TimeCounter = 30
     GameHTML()
-    timer()
+    clock()
 }
 
